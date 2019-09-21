@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="tvColor1" format="color" />
+    <attr name="bgNormalColor" format="color" />
+    <attr name="tvSize1" format="dimension" />
+</resources>

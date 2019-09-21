@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="tvColor1">#333333</item>
+        <item name="tvSize1">12sp</item>
+        <item name="bgNormalColor">#fefefe</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">#ff0000</item>
+        <item name="colorPrimaryDark">#ff00ff</item>
+        <item name="colorAccent">#ffff00</item>
+        <item name="tvColor1">#ff0000</item>
+        <item name="tvSize1">28sp</item>
+        <item name="bgNormalColor">#666</item>
+    </style>
+
+</resources>
